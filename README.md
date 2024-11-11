@@ -22,7 +22,7 @@ A RESTful API built with FastAPI, SQLAlchemy, and SQLite that allows users to in
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/character-api.git
+   git clone https://github.com/JoaquinMarsan/charactersAPI.git
    cd character-api
 2. **Create a virtual environment**
     ```bash
